@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		5D87F9BA20702D1800751C5C /* markov-chains */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "markov-chains"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D87F9BD20702D1800751C5C /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		5D87F9C42070601D00751C5C /* functions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = functions.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				5D87F9BD20702D1800751C5C /* main.c */,
+				5D87F9C42070601D00751C5C /* functions.h */,
 			);
 			path = "markov-chains";
 			sourceTree = "<group>";
